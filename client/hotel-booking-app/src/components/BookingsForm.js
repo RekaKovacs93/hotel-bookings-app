@@ -57,3 +57,4 @@ const BookingsForm = ({addBooking}) => {
 }
 
 export default BookingsForm
+
